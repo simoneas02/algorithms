@@ -1,0 +1,17 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Place to take notes and do examples from my Algorithms study ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "algorithms",
+    "study",
+    "program",
+    "developer"
+  ],
+  "author": "Simone Amorim",
+  "license": "ISC"
+}
