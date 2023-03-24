@@ -4,5 +4,6 @@
 
 ## Content list
 
-- [Binary search](./src/binary-search/binary-search.md)
-- [Big O notation](./src/big-o-notation/big-o-notation.md)
+- Chapter 1
+  - [Binary search](./src/chapter-1/binary-search/binary-search.md)
+  - [Big O notation](./src/chapter-1/big-o-notation/big-o-notation.md)
