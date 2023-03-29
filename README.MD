@@ -9,3 +9,4 @@
   - Big O notation
 - [Chapter 2](./src/chapter-2/chapter-2.md)
   - Arrays and Linked lists
+  - Selection sort
