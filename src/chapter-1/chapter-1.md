@@ -4,7 +4,7 @@
 
 ## The Big O notation
 
-Big O notation isspecial notation that tells you how fast an algorithm is. Big O notation doesn't tell you the speed in seconds. Big O notation lets you compare the number of the operations. It tells you how fast the algorithm grows.
+Big O notation is special notation that tells you how fast an algorithm is. Big O notation doesn't tell you the speed in seconds. Big O notation lets you compare the number of the operations. It tells you how fast the algorithm grows.
 
 ![Big O notation](./images/big-o-notation.jpeg)
 
@@ -16,7 +16,7 @@ Big O notation isspecial notation that tells you how fast an algorithm is. Big O
 
 ### Example
 
-Try to guess my number in the fewst tries possible.
+Try to guess my number in the fewest tries possible.
 
 ```JS
 const list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
