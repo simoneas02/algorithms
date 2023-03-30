@@ -10,3 +10,6 @@
 - [Chapter 2](./src/chapter-2/chapter-2.md)
   - Arrays and Linked lists
   - Selection sort
+- [Chapter 3](./src/chapter-3/chapter-3.md)
+  - Recursion
+  - The call stack
