@@ -13,3 +13,6 @@
 - [Chapter 3](./src/chapter-3/chapter-3.md)
   - Recursion
   - The call stack
+- [Chapter 4](./src/chapter-4/chapter-4.md)
+  - D&C| Divider & conquer
+  - Remember recursion
