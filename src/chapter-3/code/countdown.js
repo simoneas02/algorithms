@@ -1,11 +1,19 @@
 const countdown = number => {
-  console.log(number)
-
-  if (number <= 1) {
-    return
+  if (number >= 1) {
+    console.log({ number })
+    return countdown(number - 1)
   }
-
-  countdown(number - 1)
 }
 
 countdown(5)
+
+const whileCountdown = whileNumber => {
+  while (whileNumber >= 1) {
+    console.log({ whileNumber })
+    whileNumber--
+  }
+
+  return
+}
+
+whileCountdown(5)
