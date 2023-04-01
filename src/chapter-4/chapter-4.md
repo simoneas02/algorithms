@@ -2,7 +2,7 @@
 
 - [Chapter 3](#chapter-3)
   - [D\&C| Divider \& conquer](#dc-divider--conquer)
-  - [Reminder recursion](#reminder-recursion)
+  - [Remember recursion](#remember-recursion)
   - [Example](#example)
 
 ## D&C| Divider & conquer
@@ -21,3 +21,4 @@ D&C gives you a new way to think about solving problems. D&C algorithms are recu
 ## Example
 
 - [Recursive sum of array](./code/recursive-sum.js)
+- [Find a maximum umber of array](./code/maximum-number.js)
