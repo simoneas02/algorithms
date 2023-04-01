@@ -22,3 +22,4 @@ D&C gives you a new way to think about solving problems. D&C algorithms are recu
 
 - [Recursive sum of array](./code/recursive-sum.js)
 - [Find a maximum umber of array](./code/maximum-number.js)
+- [Counting the number of array items](./code/number-of-items.js)
