@@ -1,5 +1,5 @@
 const numberOfItems = list => {
-  if (list.length == 0) {
+  if (list.length === 0) {
     return 0
   }
 
