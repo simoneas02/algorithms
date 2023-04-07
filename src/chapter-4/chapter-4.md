@@ -3,6 +3,7 @@
 - [Chapter 3](#chapter-3)
   - [D\&C| Divider \& conquer](#dc-divider--conquer)
   - [Remember recursion](#remember-recursion)
+  - [Quicksort | `O(n log n)`](#quicksort--on-log-n)
   - [Example](#example)
 
 ## D&C| Divider & conquer
@@ -18,8 +19,23 @@ D&C gives you a new way to think about solving problems. D&C algorithms are recu
 
 ![recursive example](images/recursive-example.png)
 
+## Quicksort | `O(n log n)`
+
+Quicksort is a sorting algorithm. It's much faster than selection sort and is frequently used in real life. Quicksort also uses D&C.
+
+- It creates two empty arrays, we can call `less[] and greater[]`,
+- Choose a item as a pivot
+- Find elements smaller than pivot and add to `less[]`
+- Find elements larger than pivot and add to `greater[]`
+- Then you can combine the whole thing like: `[...less, pivot, ...greater]`
+
+The performance of Quicksort heavily depends on the pivot you choose.
+
+If you divide the array in half every time and choose a random element in the array as the pivot, the call stack is much shorter.
+
 ## Example
 
 - [Recursive sum of array](./code/recursive-sum.js)
 - [Find a maximum umber of array](./code/maximum-number.js)
 - [Counting the number of array items](./code/number-of-items.js)
+- [Sort array using Quicksort](./code/quicksort.js)
