@@ -16,3 +16,6 @@
 - [Chapter 4](./src/chapter-4/chapter-4.md)
   - D&C| Divider & conquer
   - Remember recursion
+- [Chapter 4](./src/chapter-5/chapter-5.md)
+  - Hash functions
+  - Collisions
