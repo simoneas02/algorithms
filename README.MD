@@ -16,6 +16,9 @@
 - [Chapter 4](./src/chapter-4/chapter-4.md)
   - D&C| Divider & conquer
   - Remember recursion
-- [Chapter 4](./src/chapter-5/chapter-5.md)
+- [Chapter 5](./src/chapter-5/chapter-5.md)
   - Hash functions
   - Collisions
+- [Chapter 6](./src/chapter-6/chapter-6.md)
+  - Breadth-first search(BFS)
+  - What's a graph?
