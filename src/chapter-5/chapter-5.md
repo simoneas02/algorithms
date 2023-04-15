@@ -1,5 +1,9 @@
 # Chapter 5
 
+- [Chapter 5](#chapter-5)
+  - [Hash functions](#hash-functions)
+  - [Collisions](#collisions)
+
 ## Hash functions
 
 Hash function is a function where you put in a string and you get back a number. So a hash function maps strings to numbers. They're also known as hash maps, maps, dictionaries, ans associative arrays. And hash tables are fast.
