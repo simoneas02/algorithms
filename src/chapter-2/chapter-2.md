@@ -1,6 +1,9 @@
-- [Arrays and Linked lists](#arrays-and-linked-lists)
-- [Selection sort](#selection-sort)
-  - [Example](#example)
+# Chapter 2
+
+- [Chapter 2](#chapter-2)
+  - [Arrays and Linked lists](#arrays-and-linked-lists)
+  - [Selection sort](#selection-sort)
+    - [Example](#example)
 
 ## Arrays and Linked lists
 
