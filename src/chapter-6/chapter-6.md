@@ -3,6 +3,7 @@
 - [Chapter 6](#chapter-6)
   - [Breadth-first search(BFS)](#breadth-first-searchbfs)
   - [What's a graph?](#whats-a-graph)
+  - [Example](#example)
 
 ## Breadth-first search(BFS)
 
@@ -15,3 +16,7 @@ A graph models a set of connections. Graphs are made up of nodes and edges. A no
 - A tree is a special type of graph, where no edges ever point back.
 - Queues are FIFO(First In,First Out)
 - Stacks are lIFO(Last In,First Out)
+
+## Example
+
+[Find a seller](./code/breadth-search.js)
