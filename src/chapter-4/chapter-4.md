@@ -1,6 +1,6 @@
-# Chapter 3
+# Chapter 4
 
-- [Chapter 3](#chapter-3)
+- [Chapter 4](#chapter-4)
   - [D\&C| Divider \& conquer](#dc-divider--conquer)
   - [Remember recursion](#remember-recursion)
   - [Quicksort | `O(n log n)`](#quicksort--on-log-n)
