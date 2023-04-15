@@ -1,6 +1,9 @@
-- [The Big O notation](#the-big-o-notation)
-- [Binary Search](#binary-search)
-  - [Example](#example)
+# Chapter 1
+
+- [Chapter 1](#chapter-1)
+  - [The Big O notation](#the-big-o-notation)
+  - [Binary Search](#binary-search)
+    - [Example](#example)
 
 ## The Big O notation
 
