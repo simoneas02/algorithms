@@ -22,3 +22,5 @@
 - [Chapter 6](./src/chapter-6/chapter-6.md)
   - Breadth-first search(BFS)
   - What's a graph?
+- [Chapter 7](./src/chapter-7/chapter-7.md)
+  - Dijkstra's algorithm
